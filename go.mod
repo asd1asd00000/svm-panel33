@@ -1,0 +1,8 @@
+module github.com/asd1asd00000/svm-panel
+
+go 1.22
+
+require (
+	github.com/go-sql-driver/mysql v1.8.1
+	golang.org/x/crypto v0.24.0
+)
