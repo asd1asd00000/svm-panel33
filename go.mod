@@ -1,4 +1,4 @@
-module github.com/asd1asd00000/svm-panel
+module github.com/asd1asd00000/svm-panel33
 
 go 1.22
 
