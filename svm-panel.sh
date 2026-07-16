@@ -80,7 +80,7 @@ EOF
         mysql -e "USE svm_db; REPLACE INTO settings (key_name, key_value) VALUES ('panel_url', '$PANEL_URL');"
 
         rm -rf /root/svm-panel
-        git clone https://github.com/asd1asd00000/svm-panel.git /root/svm-panel
+        git clone https://github.com/asd1asd00000/svm-panel33.git /root/svm-panel
         cd /root/svm-panel
 
         go mod tidy
@@ -124,7 +124,7 @@ EOF
         read -p "Enter MAIN Server Security Token: " node_token
 
         rm -rf /root/svm-panel
-        git clone https://github.com/asd1asd00000/svm-panel.git /root/svm-panel
+        git clone https://github.com/asd1asd00000/svm-panel33.git /root/svm-panel
         cd /root/svm-panel
 
         go mod tidy
