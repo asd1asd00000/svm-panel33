@@ -11,9 +11,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/asd1asd00000/svm-panel/api"
-	"github.com/asd1asd00000/svm-panel/database"
-	"github.com/asd1asd00000/svm-panel/sshvpn"
+	"github.com/asd1asd00000/svm-panel33/api"
+	"github.com/asd1asd00000/svm-panel33/database"
+	"github.com/asd1asd00000/svm-panel33/sshvpn"
 )
 
 const (
