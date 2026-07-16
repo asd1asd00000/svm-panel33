@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/asd1asd00000/svm-panel/database"
+	"github.com/asd1asd00000/svm-panel33/database"
 	"golang.org/x/crypto/ssh"
 )
 
